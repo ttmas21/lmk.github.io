@@ -29,7 +29,7 @@
 						</p>
 		</td>
 		<td style="border-top: none; border-bottom: none; border-left: 1px dotted #000000; border-right: none; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.4cm; padding-right: 0cm"><p>
-			<b>сергей геннадьевич ф****н </b>
+			<b>сергей геннадьевич ф***н </b>
 			</p>
 		</td>
 	</tr>
