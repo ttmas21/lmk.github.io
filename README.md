@@ -1,7 +1,6 @@
+
 <html>
 <head>
-	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-	
 </head>
 <body lang="ru-RU" link="#000080" vlink="#800000" dir="ltr"><h2 class="western">
 ДАННЫЕ ОБ ЛМК</h2>
